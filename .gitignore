@@ -1,0 +1,5 @@
+agModels-v*
+data
+submissions
+.DS_Store
+.ipynb_checkpoints
